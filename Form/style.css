@@ -1,0 +1,39 @@
+body {
+    color: rgb(200, 200, 35);
+    background-color: rgb(50, 50, 70);
+}
+h1, p {
+    text-align: center;
+}
+fieldset{
+    display:block;
+    margin: auto 20%;
+}
+.divide {
+    display: flex;
+}
+.part {
+    margin-right: 15%;
+}
+.big {
+    width: 35%;
+}
+#email {
+    width: 100%;
+}
+.sx {
+    text-align: left;
+}
+#submit {
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 10%;
+    height: 30px;
+}
+#thanks {
+    visibility: hidden;
+    position: absolute;
+    top: 45%;
+    left: 30%;
+}
